@@ -1,0 +1,5 @@
+AQI_Analog,Humidity,LDR_Digital,Rain_Digital,Temperature,Wind_Analog,Wind_kmh,Wind_m_s,timestamp_ms,id,Temp_next_1h,Rain_next_1h
+9,39.0,1,0,27.0,9,0.0,0.0,315866,315866,27.0,0.0
+9,40.0,1,0,27.0,9,0.0,0.0,621636,621636,27.0,0.0
+9,40.0,1,0,27.0,9,0.0,0.0,932721,932721,27.0,0.0
+9,40.0,1,0,27.0,10,0.0,0.0,1243144,1243144,28.0,0.0
